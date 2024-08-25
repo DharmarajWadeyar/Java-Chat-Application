@@ -1,2 +1,2 @@
-# Chat-Application-Java-
+# Java-Chat-Application
 Personal Project
